@@ -1,0 +1,17 @@
+
+#Se agrega boton de Diseño
+	#Fondo
+	#Color y Fuente de Letra
+	#Color del Evento
+	#Sonido de la Notificacion 
+
+#Se agrega boton de Trofeos
+	#En este apartado el usuario puede ver sus logros que ah obtenido a lo largo de la semana
+
+#Se agrega boton de mas 
+	#El usuario puede programar nuevos eventos para la semana
+
+#Se agregan los dias de la semana
+	#Evento
+	#Hora
+	#Eliminar	
