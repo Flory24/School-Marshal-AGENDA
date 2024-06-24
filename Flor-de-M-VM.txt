@@ -1,0 +1,12 @@
+#página de login
+	#se crea una función de registro 
+		#se extrae Texto1 para añadir el correo
+		#se extrae Texto2 para añadir el usuario
+		#se extrae texto3 para añadir la contraseña
+		#botón con función para mandar los datos a la base de datos 
+#página de inicio 
+	#configuración
+		#mas 
+			#apartado para cambiar nombre de usuario
+			#apartado para cambiar contraseña
+			#el cambio de usuario y/o contraseña se validan con el correo electrónico
