@@ -1,0 +1,6 @@
+inicio  
+apliacion para tener actualizaciones cada que presente herrores 
+tendra un apartado para que el usuario pueda comentar sus opiniones##
+estos comentarios que el usuario va a mandar pueden ser almacenados
+de acuerdo a estos comentarios podamos reconocer herrores u talvez cambiar algo respecto al diseño 
+de esta manera podremos ver herrores u opiniones para seguir mejorando el diseño y lo dinamico dentro de esta agenda
