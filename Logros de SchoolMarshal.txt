@@ -1,4 +1,0 @@
-La función principal de los logros será un incentivo para los estudiantes, ya que les liberará la personalización de la aplicación.
-Algunos de los logros podrían ser: !Completaste "X" cantidad de tareas¡,!Felicidades tienes de racha "X" tareas realizadas¡
-Los logros también para que los estudiante no se aburran de la aplicación.
-Una personalización desbloqueable sería el poder ponerle colores o imágenes a la aplicación
